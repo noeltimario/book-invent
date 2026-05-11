@@ -1,3 +1,5 @@
+mysql -u root -p
+
 CREATE DATABASE library_test;
 USE library_test;
 
